@@ -4,7 +4,7 @@ A modern and responsive Travel Website built using **HTML, CSS, and JavaScript**
 This project helps users explore destinations, view travel packages, and experience a clean UI with interactive features.
 
 ---
-🔗 Project Demo / Repository: [Travel]([https://your-link.com](https://anamikayadav9334.github.io/Travel/))
+🔗 Project Demo / Repository: [Travel]((https://anamikayadav9334.github.io/Travel/))
 ## ✨ Features
 
 - Responsive design for all devices
